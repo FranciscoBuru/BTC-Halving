@@ -49,18 +49,19 @@ def normalized_graph(df1, df2, df3):
     plt.legend()
     plt.xlabel("Days After Halving")
     plt.ylabel("Normalized price")
+    # plt.savefig("plt1.png")
     plt.show()
 
 
 # Prints the day after halving wher the price was lowest or highest.
 def halving_max_min_days(df1, df2, df3):
     df1, df2, df3, prim, seg, ter, offset = drop_index_get_np_array(df1, df2, df3)
-    min1, max1 = print_max_min_day_data(df1, offset, "first: ")
-    min2, max2 = print_max_min_day_data(df2, 0, "second: ")
-    min3, max3 = print_max_min_day_data(df3, 0, "third: ")
+    min1, max1 = print_max_min_day_data(df1, offset, "blue: ")
+    min2, max2 = print_max_min_day_data(df2, 0, "orange: ")
+    min3, max3 = print_max_min_day_data(df3, 0, "green: ")
 
-    print("\nMultiplier between Maximums 1 y 2: ", seg[max2] / prim[max1])
-    print("Multiplier between Maximums 2 y 3: ", ter[max3] / seg[max2])
+    print("\nMultiplier between Maximums blue and orange: ", seg[max2] / prim[max1])
+    print("Multiplier between Maximums orange and green: ", ter[max3] / seg[max2])
 
 
 # Prints prices on DAYS_BEFORE halving and DAYS_AFTER halving.
