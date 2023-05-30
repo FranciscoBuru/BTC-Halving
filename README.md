@@ -30,9 +30,9 @@ The maximum price points within each halving cycle all occur within a 100-day ti
 
 ![](max-min-days.png)
 
-This means that within a 100 days time frame, the peak daily price for Bitcoin was achieved. It provides us with a consistent time frame in which the greatest price movement occurred in each cycle.
+This means that within a 100 days window, the peak daily price for Bitcoin was achieved. It provides us with a consistent time frame in which the greatest price movement occurred in each cycle.
 
-Building on this observed pattern, if the trend continues as we've seen in past cycles, we can predict a possible date for the peak daily price in the upcoming halving cycle. This date would fall within the 100-day window post-halving. Accordingly, the projected date for the cycle maximum could be between **July 20, 2025 and October 25, 2025**. But if we narrow our window down to the last to cycle maximums, the next one would be between **October 3, 2025 and October 25, 2025**.
+Building on this observed pattern, if the trend continues as we've seen in past cycles, we can predict a possible date for the peak daily price in the upcoming halving cycle. This date would fall within a 100-day window. Accordingly, the projected date for the cycle maximum could be between **July 20, 2025 and October 25, 2025**. But if we narrow our window down to the last to cycle maximums, the next one would be between **October 3, 2025 and October 25, 2025**.
 
 Remember, while patterns and trends can give us a clue into possible future behavior, the world of cryptocurrencies is often influenced by various unpredictable factors. Therefore, this projected date should be taken as an informed hypothesis rather than a guaranteed outcome. Also, given the restrictive macro conditions, this upcoming cycle might be different from the last.
 
